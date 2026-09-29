@@ -54,4 +54,5 @@ A análise desse processo histórico traz lições estratégicas indispensáveis
 * **Competitividade e Alinhamento Internacional:** O alinhamento do Brasil com frameworks internacionais (como o GDPR e as diretrizes da OCDE) insere as empresas adequadas no mapa da economia global de dados, mitigando barreiras para transferências internacionais de informações.
 
 ---
-[⬅️ Voltar para a Apresentação do Curso](./README.md)
+[⬅️ Voltar para o Módulo 1](./modulo-01-apresentacao.md)
+
