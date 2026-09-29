@@ -39,11 +39,10 @@ Abaixo está a estrutura dos 6 módulos do curso. Os links para os relatórios d
 | Módulo | Descrição do Conteúdo Programático | Status | Registro de Estudos |
 | :---: | :--- | :---: | :---: |
 | **1** | **Apresentação e Estrutura:** Alinhamento de expectativas de aprendizado, metodologia ativa e competências chave. | ✅ Concluído | *Documentado Acima* |
-| **2** | **A Lei Geral de Proteção de Dados:** Antecedentes históricos (2010-2020), coalizão multissetorial, quebra-cabeça regulatório (CDC, MCI, LAI) e o DNA econômico-social da lei. | ⏳ Em Estudo | 🔒 *Bloqueado* |
-| **3** | **Definições e Escopo de Aplicação:** Conceitos expansionistas vs. reducionistas de dados pessoais, dados anonimizados, filtro da razoabilidade e abordagem consequencialista. | 📅 Planejado | 🔒 *Bloqueado* |
-| **4** | **O que é Preciso para Tratar Dados:** Alicerces do tratamento, cardápio de bases legais (Consentimento, Legítimo Interesse, Execução de Contrato, etc.) e dados de menores. | 📅 Planejado | 🔒 *Bloqueado* |
-| **5** | **Autoridade Nacional de Proteção de Dados:** O caminho de criação da ANPD, modelo organizacional, competências e lições da experiência internacional (GDPR). | 📅 Planejado | 🔒 *Bloqueado* |
-| **6** | **Olhando para o Futuro:** Processos práticos de adaptação (DPIA e documentação), tendências de mercado e análise de casos judiciais reais. | 📅 Planejado | 🔒 *Bloqueado* |
-
+| **2** | **A Lei Geral de Proteção de Dados:** Antecedentes históricos (2010-2020), coalizão multissetorial, quebra-cabeça regulatório (CDC, MCI, LAI) e o DNA econômico-social da lei.
+| **3** | **Definições e Escopo de Aplicação:** Conceitos expansionistas vs. reducionistas de dados pessoais, dados anonimizados, filtro da razoabilidade e abordagem consequencialista. 
+| **4** | **O que é Preciso para Tratar Dados:** Alicerces do tratamento, cardápio de bases legais (Consentimento, Legítimo Interesse, Execução de Contrato, etc.) e dados de menores. 
+| **5** | **Autoridade Nacional de Proteção de Dados:** O caminho de criação da ANPD, modelo organizacional, competências e lições da experiência internacional (GDPR). 
+| **6** | **Olhando para o Futuro:** Processos práticos de adaptação (DPIA e documentação), tendências de mercado e análise de casos judiciais reais. 
 ---
 ⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Setembro de 2026.*
