@@ -1,4 +1,4 @@
-# 🛡️ Módulo 1: Apresentação Geral do Curso (LGPD - Essencial)
+# 🛡️ Módulo 1: Apresentação Geral do Curso (LGPD - O Essencial)
 
 Este diretório centraliza o portfólio de estudos, análises e relatórios práticos desenvolvidos ao longo do curso **LGPD: O Essencial** da **Data Privacy Brasil**. 
 
@@ -21,7 +21,7 @@ O objetivo deste espaço é demonstrar a base de conhecimento adquirida em Gover
 A conclusão deste primeiro módulo marcou o alinhamento das expectativas de aprendizado e o mapeamento do escopo completo das competências que serão desenvolvidas ao longo das aulas.
 
 ### ⚙️ Dinâmica de Aprendizado Adotada
-O treinamento utiliza ferramentas estruturadas para garantir a retenção do conhecimento antes da aplicação em projetos:
+O treinamento utiliza ferramentas estruturadas para garantir a referência do conhecimento antes da aplicação em projetos:
 * **Metodologias Ativas:** Resolução de estudos de caso reais de governança.
 * **Autoavaliação:** Questionários técnicos para validação do aprendizado.
 
@@ -32,17 +32,18 @@ O treinamento utiliza ferramentas estruturadas para garantir a retenção do con
 
 ---
 
-## 📋 Ementa Completa e Painel de Progresso
+## 📋 Ementa Completa do Curso
 
-Abaixo está a estrutura dos 6 módulos do curso. Os links para os relatórios detalhados serão liberados e atualizados conforme avançarmos na documentação técnica.
+Abaixo está a estrutura dos 6 módulos planejados para o desenvolvimento técnico do programa.
 
-| Módulo | Descrição do Conteúdo Programático
-| :---: | :--- | :---: | :---: |
-| **1** | **Apresentação e Estrutura:** Alinhamento de expectativas de aprendizado, metodologia ativa e competências chave.
-| **2** | **A Lei Geral de Proteção de Dados:** Antecedentes históricos (2010-2020), coalizão multissetorial, quebra-cabeça regulatório (CDC, MCI, LAI) e o DNA econômico-social da lei.
-| **3** | **Definições e Escopo de Aplicação:** Conceitos expansionistas vs. reducionistas de dados pessoais, dados anonimizados, filtro da razoabilidade e abordagem consequencialista. 
-| **4** | **O que é Preciso para Tratar Dados:** Alicerces do tratamento, cardápio de bases legais (Consentimento, Legítimo Interesse, Execução de Contrato, etc.) e dados de menores. 
-| **5** | **Autoridade Nacional de Proteção de Dados:** O caminho de criação da ANPD, modelo organizacional, competências e lições da experiência internacional (GDPR). 
-| **6** | **Olhando para o Futuro:** Processos práticos de adaptação (DPIA e documentação), tendências de mercado e análise de casos judiciais reais. 
+| Módulo | Descrição do Conteúdo Programático |
+| :---: | :--- |
+| **1** | **Apresentação e Estrutura:** Alinhamento de expectativas de aprendizado, metodologia ativa e competências chave. |
+| **2** | **A Lei Geral de Proteção de Dados:** Antecedentes históricos (2010-2020), coalizão multissetorial, quebra-cabeça regulatório (CDC, MCI, LAI) e o DNA econômico-social da lei. |
+| **3** | **Definições e Escopo de Aplicação:** Conceitos expansionistas vs. reducionistas de dados pessoais, dados anonimizados, filtro da razoabilidade e abordagem consequencialista. |
+| **4** | **O que é Preciso para Tratar Dados:** Alicerces do tratamento, cardápio de bases legais (Consentimento, Legítimo Interesse, Execução de Contrato, etc.) e dados de menores. |
+| **5** | **Autoridade Nacional de Proteção de Dados:** O caminho de criação da ANPD, modelo organizacional, competências e lições da experiência internacional (GDPR). |
+| **6** | **Olhando para o Futuro:** Processos práticos de adaptação (DPIA e documentação), tendências de mercado e análise de casos judiciais reais. |
+
 ---
 ⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Setembro de 2026.*
