@@ -43,4 +43,5 @@ A análise do caso "Revolução Marketing" consolida premissas vitais para a est
 ---
 ⚡ *Portfólio em andamento e desenvolvimento contínuo. Próxima etapa: Módulo IV — Princípios e Bases Legais do Tratamento de Dados.*
 
-[⬅️ Voltar para o Portal de GRC](../README.md)
+[⬅️ Voltar para o Portal de GRC](../../README.md)
+
