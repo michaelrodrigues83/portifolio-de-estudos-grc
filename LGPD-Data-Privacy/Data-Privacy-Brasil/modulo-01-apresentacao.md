@@ -46,4 +46,6 @@ Abaixo está a estrutura dos 6 módulos planejados para o desenvolvimento técni
 | **6** | **Olhando para o Futuro:** Processos práticos de adaptação (DPIA e documentação), tendências de mercado e análise de casos judiciais reais. |
 
 ---
-⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Setembro de 2026.*
+⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Outubro de 2026.*
+
+[⬅️ Voltar para o Portal de GRC](../../README.md)
