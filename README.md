@@ -17,7 +17,7 @@ O repositório está estruturado em duas grandes frentes estratégicas. Clique n
 ### 🛡️ 1. Lei Geral de Proteção de Dados (LGPD) (Data Privacy Brasil)
 Estudos aprofundados sobre legislações de proteção de dados, mapeamento de fluxos e relatórios de impacto.
 * **Foco Atual:** Adaptação regulatória e mitigação de riscos de privacidade com base no curso da Data Privacy Brasil.
-* Acesse a Trilha: [📂 Explorar Pasta LGPD](./LGPD%20-%20Privacidade%20de%20Dados/modulo-03-escopo-e-dados-pessoais.md)
+* Acesse a Trilha: [📂 Explorar Pasta LGPD](./modulo-03-escopo-e-dados-pessoais.md)
 
 ### 📜 2. Segurança da Informação (ISO/IEC 27001) (Udemy)
 Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
