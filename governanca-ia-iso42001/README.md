@@ -18,3 +18,10 @@ Como marco inicial desta trilha, concluí o curso autoinstrucional **Princípios
 
 A governança corporativa de IA não nasce do zero. Ela se apoia em uma estrutura que une três grandes pilares:
 
+
+
+---
+
+🔙 [Voltar para o Menu Anterior](../)
+
+
