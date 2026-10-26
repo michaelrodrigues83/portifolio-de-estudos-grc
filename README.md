@@ -19,19 +19,24 @@ Estudos aprofundados sobre legislações de proteção de dados, mapeamento de f
 * **Foco Atual:** Adaptação regulatória e mitigação de riscos de privacidade com base no curso da Data Privacy Brasil.
 * Acesse a Trilha: [📂 Explorar Pasta LGPD](./LGPD-Data-Privacy/Data-Privacy-Brasil/)
 
+### 🔹 2. Governança e Inteligência Artificial (ISO/IEC 42001)
+Ponto de partida para a especialização em GRC voltado ao ecossistema de algoritmos e IA.
+*   **Foco Atual:** Governança, matriz de riscos éticos e responsabilidade algorítmica.
+*   **Acesse a Trilha:** [Framework de Governança, Riscos e Ética em IA](./governanca-ia-iso42001/)
+
+
 ### 📜 2. Segurança da Informação (ISO/IEC 27001) (Udemy)
 Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
 * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de risco com base nos módulos da Udemy.
 * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](./ISO-27001-Udemy/)
 
 ---
+## 📌 Painel de Evolução
 
-## 🚀 Painel de Evolução
-
-| Trilha de Estudo | Framework / Regulamentação | Instituição | Status Atual |
-| :--- | :--- | :--- | :---: |
-| **Proteção de Dados** | LGPD (Lei nº 13.709/2018) | Data Privacy Brasil | ⏳ Em Andamento |
+| Foco de Estudo | Quadro / Regulamentação | Instituição | Status Atual |
+| :--- | :--- | :--- | :--- |
+| **Proteção de Dados** | LGPD (Lei nº 13.709/2018) | Privacidade de dados Brasil | ⏳ Em Andamento |
+| **Governança de IA** | ISO/IEC 42001:2023 | FGV / Udemy | ⏳ Em Andamento |
 | **Segurança da Informação** | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
 
----
-⚡ *Portfólio estruturado seguindo rigorosos princípios éticos de aprendizado real. Última atualização: Setembro de 2026.*
+⚡ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Outubro de 2026.*
