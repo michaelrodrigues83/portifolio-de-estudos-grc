@@ -25,7 +25,7 @@ Ponto de partida para a especialização em GRC voltado ao ecossistema de algori
 *   **Acesse a Trilha:** [📂 Framework de Governança, Riscos e Ética em IA](./governanca-ia-iso42001/)
 
 
-### 📜 2. Segurança da Informação (ISO/IEC 27001) (Udemy)
+### 📜 3. Segurança da Informação (ISO/IEC 27001) (Udemy)
 Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
 * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de risco com base nos módulos da Udemy.
 * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](./ISO-27001-Udemy/)
