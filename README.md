@@ -30,11 +30,10 @@ Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão 
 * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de risco com base nos módulos da Udemy.
 * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](./ISO-27001-Udemy/)
 
-* ### 🛡️4. Fundamentos Transversais de GRC (OpenEDG)
+### 🛡️ 4. Fundamentos Transversais de GRC (OpenEDG)
 Conceitos de base que sustentam as operações de governança corporativa e privacidade.
-* **Foco Atual:** Validação de pilares de Identidade Digital, Conscientização de Segurança (Awareness) e Privacidade do Consumidor.
-* **Acesse a Credencial:** [🏅 Exibir Badge Oficial no Credly](https://credly.com)
-
+* **Foco Atual:** Análise de vulnerabilidades, Identidade Digital, Conscientização (Awareness) e Privacidade do Consumidor.
+* **Acesse a Trilha:** [📂 Explorar Pasta OpenEDG](./fundamentals-openedg) | [🏅 Validar no Credly](https://credly.com)
 
 ---
 ## 🚀 Painel de Evolução
