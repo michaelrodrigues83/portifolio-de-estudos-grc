@@ -30,13 +30,21 @@ Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão 
 * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de risco com base nos módulos da Udemy.
 * **Acesse a Trilha:** [📂 Explorar Pasta ISO 27001](./ISO-27001-Udemy/)
 
+* ### 🛡️4. Fundamentos Transversais de GRC (OpenEDG)
+Conceitos de base que sustentam as operações de governança corporativa e privacidade.
+* **Foco Atual:** Validação de pilares de Identidade Digital, Conscientização de Segurança (Awareness) e Privacidade do Consumidor.
+* **Acesse a Credencial:** [🏅 Exibir Badge Oficial no Credly](https://credly.com)
+
+
 ---
-## 📌 Painel de Evolução
+## 🚀 Painel de Evolução
 
 | Foco de Estudo | Quadro / Regulamentação | Instituição | Status Atual |
 | :--- | :--- | :--- | :--- |
-| **Proteção de Dados** | LGPD (Lei nº 13.709/2018) | Privacidade de dados Brasil | ⏳ Em Andamento |
-| **Governança de IA** | ISO/IEC 42001:2023 | FGV / Udemy | ⏳ Em Andamento |
-| **Segurança da Informação** | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
+| Fundamentos de Segurança | Safety & Security [DL-00-D02] | OpenEDG / Credly | ✅ Concluído |
+| Proteção de Dados | LGPD (Lei nº 13.709/2018) | Privacidade de dados Brasil | ⏳ Em Andamento |
+| Governança de IA | ISO/IEC 42001 | FGV / Udemy | ⏳ Em Andamento |
+| Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
+
 
 ⚡ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Outubro de 2026.*
