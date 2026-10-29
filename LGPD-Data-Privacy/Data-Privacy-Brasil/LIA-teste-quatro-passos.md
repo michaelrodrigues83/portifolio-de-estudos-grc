@@ -41,5 +41,18 @@ Uma empresa do setor de tecnologia deseja tratar dados de comportamento de uso e
 ## 🎯 Conclusão de Governança
 Com base no preenchimento satisfatório dos quatro passos do LIA, o tratamento de dados para prevenção a fraudes está **autorizado e respaldado juridicamente** sob a base legal do Legítimo Interesse, garantindo conformidade e proteção jurídica perante a ANPD (Autoridade Nacional de Proteção de Dados).
 
+## 🔄 Governança Contínua e Ciclo de Vida do LIA
+
+O Teste de Legítimo Interesse não é um documento estático e deve acompanhar todo o ciclo de vida do tratamento de dados. Para garantir a governança contínua e evitar o desalinhamento da operação ao longo do tempo, este LIA será reaberto e revisado imediatamente diante dos seguintes **gatilhos de alteração (Trigger Events)**:
+
+* **Novas Fontes de Dados:** Caso sejam integradas novas bases de dados ou ferramentas de coleta que não faziam parte do escopo inicial deste relatório.
+* **Mudança na Segmentação ou Perfilamento:** Se os critérios de cruzamento de dados, criação de perfis comportamentais (profiling) ou direcionamento forem modificados.
+* **Alteração na Expectativa do Titular:** Se houver mudanças no contexto do relacionamento com o cliente ou nas práticas de mercado que alterem o que o titular razoavelmente espera em termos de privacidade.
+* **Desvio de Finalidade:** Qualquer alteração no objetivo principal que justificou o início do tratamento de dados.
+
+### 📅 Revisão Periódica
+Mesmo na ausência de gatilhos de alteração disparados pela operação, este relatório passará por uma auditoria e revisão preventiva a cada **12 meses** para validar se as salvaguardas e mitigações propostas continuam eficazes.
+
+
 ---
 ⬅️ [Voltar para a Trilha de LGPD](./README.md)
