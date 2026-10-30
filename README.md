@@ -42,7 +42,7 @@ Conceitos de base que sustentam as operações de governança corporativa e priv
 | :--- | :--- | :--- | :--- |
 | Fundamentos de Segurança | Safety & Security [DL-00-D02] | OpenEDG / Credly | ✅ Concluído |
 | Proteção de Dados | LGPD (Lei nº 13.709/2018) | Privacidade de dados Brasil | ⏳ Em Andamento |
-| Governança de IA | ISO/IEC 42001 | FGV / Udemy | ⏳ Em Andamento |
+| Governança de IA | ISO/IEC 42001 | FGV / Udemy | ✅ Concluído |
 | Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
 
 
