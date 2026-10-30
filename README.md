@@ -19,10 +19,10 @@ Estudos aprofundados sobre legislações de proteção de dados, mapeamento de f
 * **Foco Atual:** Adaptação regulatória e mitigação de riscos de privacidade com base no curso da Data Privacy Brasil.
 * Acesse a Trilha: [📂 Explorar Pasta LGPD](./LGPD-Data-Privacy/Data-Privacy-Brasil/)
 
-### 📜 🤖 2. Governança e Inteligência Artificial (ISO/IEC 42001)
+### 📜 2. Governança e Inteligência Artificial (ISO/IEC 42001)
 Ponto de partida para a especialização em GRC voltado ao ecossistema de algoritmos e IA.
-* **Foco Atual:** Governança, matriz de riscos éticos, responsabilidade algorítmica e certificação internacional.
-* **Acesse a Trilha:** [Framework de Governança, Riscos e Ética em IA](governance-iso42001)
+* **Foco Atual:** Governança, matriz de riscos éticos e certificação internacional.
+* **Acesse a Trilha:** [Framework de Governança, Riscos e Ética em IA](governance-iso42001/)
 
 ### 📜 3. Segurança da Informação (ISO/IEC 27001) (Udemy)
 Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
