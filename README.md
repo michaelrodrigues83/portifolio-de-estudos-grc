@@ -22,7 +22,8 @@ Estudos aprofundados sobre legislações de proteção de dados, mapeamento de f
 ### 📜 2. Governança e Inteligência Artificial (ISO/IEC 42001)
 Ponto de partida para a especialização em GRC voltado ao ecossistema de algoritmos e IA.
 *   **Foco Atual:** Governança, matriz de riscos éticos e responsabilidade algorítmica.
-*   **Acesse a Trilha:** [📂 Framework de Governança, Riscos e Ética em IA](./governanca-ia-iso42001/)
+* **Acesse a Trilha:** [Framework de Governança, Riscos e Ética em IA](./governance-iso42001/certificacao-iso42001-fundamentals/)
+
 
 
 ### 📜 3. Segurança da Informação (ISO/IEC 27001) (Udemy)
