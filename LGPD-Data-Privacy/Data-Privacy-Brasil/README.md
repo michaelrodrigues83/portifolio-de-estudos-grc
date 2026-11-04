@@ -25,7 +25,7 @@ O framework está dividido em 4 módulos fundamentais de governança. Acesse cad
 
 Para consolidar todos os conhecimentos, o projeto adota o cenário de uma instituição fictícia de grande porte que utiliza sistemas automatizados e tratamento massivo de dados sensíveis. 
 
-* **Status atual:** ⏳ Estruturação de ambiente concluída. Pronto para o detalhamento do cenário.
+* **[📂 Acessar o Estudo de Caso Completo - CrediTech Soluções Financeiras S.A.](./05-estudo-de-caso-creditech/README.md)**
 
 ---
 👉 [Voltar ao Painel Geral de Estudos GRC](../../README.md)
