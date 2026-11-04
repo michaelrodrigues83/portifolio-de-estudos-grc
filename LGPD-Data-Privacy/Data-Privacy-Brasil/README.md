@@ -14,7 +14,7 @@ O framework está dividido em 4 módulos fundamentais de governança. Acesse cad
   * Mapeamento de fluxos, matriz de classificação de dados e ciclo de vida de ativos.
 * [📂 Módulo 02: Segurança da Informação e Controles (ISO 27001)](./02-seguranca-e-controles-iso27001/README.md)
   * Controle de acesso baseado no menor privilégio, criptografia e vulnerabilidades.
-* [📂 Módulo 03: Governança de Inteligência Artificial (ISO 42001)](./03-governanca-ia-iso42001/README.md>)
+* [📂 Módulo 03: Governança de Inteligência Artificial (ISO 42001)](./03-governanca-ia-iso42001/README.md)
   * Avaliação de impacto de IA (AIIA), explicabilidade e mitigação de vieses algorítmicos.
 * [📂 Módulo 04: Gestão de Riscos e Resposta a Incidentes](./04-gestao-de-riscos-incidentes/README.md)
   * Elaboração de RIPD/DPIA e estruturação do plano de contenção de vazamentos.
