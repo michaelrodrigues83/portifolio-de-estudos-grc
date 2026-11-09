@@ -24,7 +24,6 @@ Ponto de partida para a especialização em GRC voltado ao ecossistema de algori
 * **Foco Atual:** Governança, matriz de riscos éticos e certificação internacional.
 * **Acesse a Trilha:** [Estudos de Base (FGV)](governanca-ia-iso42001) | [Certificação Fundamentals](certificacao-iso42001-fundamentals)
 
-
 ### 📜 3. Segurança da Informação (ISO/IEC 27001) (Udemy)
 Estudos baseados nas melhores práticas internacionais para Sistemas de Gestão de Segurança da Informação (SGSI).
 * **Foco Atual:** Mapeamento de controles, gap analysis e matrizes de risco com base nos módulos da Udemy.
@@ -35,8 +34,14 @@ Conceitos de base que sustentam as operações de governança corporativa e priv
 * **Foco Atual:** Análise de vulnerabilidades, Identidade Digital, Conscientização (Awareness) e Privacidade do Consumidor.
 * **Acesse a Trilha:** [📂 Explorar Pasta OpenEDG](./fundamentals-openedg) | [🏅 Validar no Credly](https://credly.com)
 
+### 🛡️ 5. Resiliência Cibernética e Continuidade de Negócios (ISO 22301 & NIST)
+Desenvolvimento avançado de estratégias de GRC offline-first para cenários de desastres e indisponibilidade crítica sistêmica (*Cisne Negro*).
+*   **Foco Atual:** Análise de Impacto de Negócios (BIA), mitigação do impacto do Super El Niño e planos de contingência técnica sob ataque Zero-Day.
+*   **Acesse a Trilha:** 🚀 **[Explorar Framework de Resiliência Extrema](./modulo-01-continuidade/)**
+
 ---
-## 🚀 Painel de Evolução
+
+## 📈 Painel de Evolução
 
 | Foco de Estudo | Quadro / Regulamentação | Instituição | Status Atual |
 | :--- | :--- | :--- | :--- |
@@ -44,6 +49,6 @@ Conceitos de base que sustentam as operações de governança corporativa e priv
 | Proteção de Dados | LGPD (Lei nº 13.709/2018) | Data Privacy Brasil | ✅ Concluído |
 | Governança de IA | ISO/IEC 42001 | FGV / Udemy | ✅ Concluído |
 | Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
+| Resiliência Cibernética | ISO 22301 (GCN) & NIST SP 800-34 | Estudo de Caso Avançado | 🚀 Desenvolvendo MVP |
 
-
-⚡ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Outubro de 2026.*
+✨ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Novembro de 2026.*
