@@ -1,7 +1,7 @@
 # 🛡️ Módulo de Resiliência Cibernética Extrema
 **Normas de Referência:** ISO 22301, ISO 27001, ISO 42001 e NIST SP 800-34
 
-Este espaço simula a atuação real de um profissional de GRC na estruturação de uma arquitetura de governança autônoma e offline-first para o setor financeiro (Estudo de Caso: Apex Bank S.A.).
+Este espaço simula a atuação real de um profissional de GRC na estruturação de uma arquitetura de governança autônoma e offline-first para o setor hospitalar crítico (Estudo de Caso: Alpha Health Group S.A.)"
 
 ⚠️ **Disclaimer Acadêmico:** Este projeto é um estudo de caso puramente hipotético e simulado para fins de aplicação prática de frameworks internacionais de resiliência e segurança digital. Não possui qualquer vínculo com cenários reais de ameaças ou visões conspiratórias.
 
