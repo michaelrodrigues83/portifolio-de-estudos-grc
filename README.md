@@ -39,6 +39,11 @@ Desenvolvimento avançado de estratégias de GRC offline-first para cenários de
 *   **Foco Atual:** Análise de Impacto de Negócios (BIA), mitigação do impacto do Super El Niño e planos de contingência técnica sob ataque Zero-Day.
 *   **Acesse a Trilha:** 🚀 **[Explorar Framework de Resiliência Extrema](./modulo-01-continuidade/)**
 
+### 🛡️ 6. Implementação de SGSI do Zero & Conformidade Integrada (ISO/IEC 27001:2022)
+Projeto completo de arquitetura e governança corporativa aplicando a ISO 27001 do zero em uma operadora logística de cargas críticas (**NexusLog S.A.**), integrado à LGPD, ISO/IEC 42001 e Continuidade de Negócios.
+* **Foco Atual:** Contexto e Escopo, Matriz de Riscos (5x5), SoA, Blindagem Física (Anexo A.7), RoPA, Governança de IA e Auditoria PDCA.
+* **Acesse a Trilha:** [Explorar Super Estudo de Caso SGSI](./modulo-02-implementacao-sgsi/README.md)
+
 ---
 
 ## 📈 Painel de Evolução
@@ -50,5 +55,6 @@ Desenvolvimento avançado de estratégias de GRC offline-first para cenários de
 | Governança de IA | ISO/IEC 42001 | FGV / Udemy | ✅ Concluído |
 | Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ✅ Concluído |
 | Resiliência Cibernética | ISO 22301 (GCN) & NIST SP 800-34 | Estudo de Caso Avançado | 🚀 Desenvolvendo MVP |
+| Implementação SGSI (Super Case) | ISO/IEC 27001 + LGPD + 42001 | Projeto Prático GRC | ✅ Concluído |
 
 ✨ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Novembro de 2026.*
