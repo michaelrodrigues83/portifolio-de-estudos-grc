@@ -48,7 +48,7 @@ Desenvolvimento avançado de estratégias de GRC offline-first para cenários de
 | Fundamentos de Segurança | Safety & Security [DL-00-D02] | OpenEDG / Credly | ✅ Concluído |
 | Proteção de Dados | LGPD (Lei nº 13.709/2018) | Data Privacy Brasil | ✅ Concluído |
 | Governança de IA | ISO/IEC 42001 | FGV / Udemy | ✅ Concluído |
-| Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ⏳ Em Andamento |
+| Segurança da Informação | ISO/IEC 27001:2022 | Udemy | ✅ Concluído |
 | Resiliência Cibernética | ISO 22301 (GCN) & NIST SP 800-34 | Estudo de Caso Avançado | 🚀 Desenvolvendo MVP |
 
 ✨ *Portfólio estruturado seguindo rigorosamente princípios éticos de aprendizado real. Última atualização: Novembro de 2026.*
